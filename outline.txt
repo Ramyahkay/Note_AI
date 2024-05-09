@@ -1,0 +1,12 @@
+System Architecture:
+
+Database: Neo4j (store in graph format?)
+Server layer: Langchain API 
+
+
+
+Objective:
+have notes and functionaltilies :
+  1. auto-categories
+  2. peronsalization tags
+  3. 
